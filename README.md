@@ -121,5 +121,3 @@ o	Revisão de literatura sobre o tema e como fazer
 2 etapa : 19/09 - forecasting : ARIMA, SARIMA, ARMA, Prophet, Kats, LSTM
 
 3 etapa : 26/09 - relatorio final 
-
-[APRESENTAÇÃO DO PROJETO](https://drive.google.com/drive/folders/17bJoUmueq0ucRB6PsK12Pcplu5YyJ8Uq?usp=sharing)
