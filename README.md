@@ -1,16 +1,11 @@
 # Mentoria-DSA
-
 Projetos mentoria data science academy - 2021
 
-Projeto 01 - Análise de Churn
-Projeto 02 - Análise de dados de criptomoedas para predição do seu valor no mercado
 
 ![image](https://user-images.githubusercontent.com/72530507/131258205-918dcf59-d592-4780-85b8-0233ba24d737.png)
 
 
-
-
-# Analise de Churn
+# Projeto 01 - Análise de Churn 
 
 Customer Churn (ou Rotatividade de Clientes, em uma tradução livre) refere-se a uma decisão tomada pelo cliente sobre o término do relacionamento comercial. Refere-se também à perda de clientes. A fidelidade do cliente e a rotatividade de clientes sempre somam 100%. Se uma empresa tem uma taxa de fidelidade de 60%, então a taxa de perda de clientes é de 40%. De acordo com a regra de lucratividade do cliente 80/20, 20% dos clientes estão gerando 80% da receita. Portanto, é muito importante prever os usuários que provavelmente abandonarão o relacionamento comercial e os fatores que afetam as decisões do cliente.
 
@@ -53,7 +48,9 @@ Algo interessante sobre a análise do MRR churn é o insight que ele possibilita
 Em muitos casos o MRR Churn acaba sendo mais importante que o churn rate, isso somente se as contas que estão saindo são contas de baixa receita. Porém, existe um contrapeso para compensar esse furo. É importante que seus maiores e mais importantes clientes continuem ativos e crescendo, o que significa trazer mais receita.
 
 
-# Título: Análise de dados de criptomoedas para predição do seu valor no mercado
+# Projeto 02 - Análise de dados de criptomoedas para predição do seu valor no mercado
+
+- Título: Análise de dados de criptomoedas para predição do seu valor no mercado
 
 **1)Descrição**
 
